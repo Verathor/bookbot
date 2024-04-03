@@ -1,1 +1,1 @@
-Bookbot analyzes books.
+Bookbot analyzes character counts in books.
